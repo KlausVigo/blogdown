@@ -24,4 +24,7 @@ highlight = true
 [header]
 image = ""
 caption = ""
+[[url_custom]]
+name = "View Journal Article"
+url = "https://doi.org/10.1128/mBio.00335-10"
 +++
