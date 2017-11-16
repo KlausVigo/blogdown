@@ -6,14 +6,14 @@ date = "2017-11-16"
 title = "phangorn"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Phylogenetic analysis in R"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "phangorn_sticker.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["R", "phangorn"]
+tags = ["R", "phylogenetics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,20 +28,7 @@ caption = "My caption :smile:"
 
 +++
 
-## R Markdown
+## phangorn
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+You can find the development version on [Github](https://github.com/KlausVigo/phangorn.git) 
+and a stable version on [CRAN](https://cran.r-project.org/package=phangorn).
