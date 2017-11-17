@@ -27,13 +27,17 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
+
 [[filter]]
   name = "phangorn"
   tag = ".phangorn"
+  
+[[filter]]
+  name = "phylogenetics"
+  tag = ".phylogenetics"
 
 [[filter]]
-  name = "Other"
+  name = "R"
   tag = ".R"
 
 +++
