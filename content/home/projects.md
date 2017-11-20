@@ -28,9 +28,9 @@ filter_default = 0
   name = "All"
   tag = "*"
 
-[[filter]]
-  name = "phangorn"
-  tag = ".phangorn"
+#[[filter]]
+#  name = "phangorn"
+#  tag = ".phangorn"
   
 [[filter]]
   name = "phylogenetics"
