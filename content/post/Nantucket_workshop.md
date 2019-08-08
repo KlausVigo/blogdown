@@ -2,10 +2,11 @@
 title: Nantucket phylogeny developeR workshop
 author: Klaus Schliep
 date: 2019-08-08
+description: Announcent for the 2nd Nantucket phylogeny developeR workshop
 categories:
   - R
 tags:
-  - phangorn
+  - workshop
 output:
   blogdown::html_page:
     toc: true
@@ -22,9 +23,8 @@ The workshop is funded by awards from the National Science Foundation to Dr. Lia
 To apply for the course, please complete the following google form. Details of relevant programming background (computer languages, R knowledge, GitHub repositories, …) should also be provided. Admission is competitive, and preference will go towards students with background in evolutionary biology, basic to moderate experience in computer programming (ability to read a data file into R or a similar language and parse it for information, familiarity with iteration and functions, ability to identify when to use basic datatypes such as vectors and dataframes, and comfort with using help documentation to find answers), and a compelling motivation for taking the course. Applications should be submitted the google form by September 10, 2019. Questions can be directed to [klaus.schliep@umb.edu](mailto:klaus.schliep@umb.edu) or [liam.revell@umb.edu](mailto:liam.revell@umb.edu).
 
 
-[Apply here](https://docs.google.com/forms/d/19vn0iJExxAPAEyDpGsEDj_HNW1-99cmcPa1UjvdA7XM/)
+<center> [Apply here](https://docs.google.com/forms/d/19vn0iJExxAPAEyDpGsEDj_HNW1-99cmcPa1UjvdA7XM/) </center> 
 
 
-<center> ![](./img/nantucket_course_2.jpg) </center> 
 
 
