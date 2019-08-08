@@ -2,10 +2,11 @@
 title: Nantucket phylogeny developeR workshop
 author: Klaus Schliep
 date: 2019-08-08
+description: Announcent for the 2nd Nantucket phylogeny developeR workshop
 categories:
   - R
 tags:
-  - phangorn
+  - workshop
 output:
   blogdown::html_page:
     toc: true
