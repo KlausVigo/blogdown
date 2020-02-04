@@ -32,7 +32,6 @@ weight = 5
 
 # About me
 
-I am a post doctoral research fellow with Dr. Liam Revell in the biology department of UMass Boston. I am interested in applications of statistics to molecular and especially evolutionary biology. I have developed and led several R workshops and a hackathon. 
-
+I am a senior scientist at the Institute of Computational Biotechnology at Graz University of Technology. I am interested in applications of statistics to molecular and especially evolutionary biology. I have developed several R packages and participated in several R workshops and hackathons. 
 
 

@@ -40,16 +40,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Klaus Schliep"
-  role = "Post Doctoral Research Fellow"
+  role = "Senior Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Massachusetts Boston", url = "" } ]
+  organizations = [ { name = "Graz University of Technology", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "klaus.schliep@umb.edu"
-  address = "100 Morrissey Blvd. Office Location: ISC-5-5140"
+  email = "klaus.schliep@tugraz.at"
+  address = ""
   office_hours = ""
   phone = ""
   skype = ""
