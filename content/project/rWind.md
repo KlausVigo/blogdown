@@ -3,20 +3,20 @@
     date = "2020-07-24"
     
     # Project title.
-    title = "phyloregion"
+    title = "rWind"
     
     # Project summary to display on homepage.
-    summary = "Biogeographic Regionalization and Macroecology"
+    summary = "Download, Edit and Include Wind and Sea Currents Data in Ecological and Evolutionary Analysis"
     
     # Optional image to display on homepage (relative to `static/img/` folder).
-    image_preview = "phyloregion_sticker.png"
+    image_preview = ""
     
     # Tags: can be used for filtering projects.
     # Example: `tags = ["machine-learning", "deep-learning"]`
-    tags = ["R", "phylogenetics", "biogeography"]
+    tags = ["R", "biogeography"]
     
     # Optional external URL for project (replaces project detail page).
-    external_link = "https://darunabas.github.io/phyloregion/"
+    external_link = ""
     
     # Does the project detail page use math formatting?
     math = true
@@ -28,8 +28,8 @@
     
     +++
         
-    ## phyloregion
+        ## rWind
         
-    phyloregion is a collaboration with Barnabas Daru and Piyal Karunarathne. 
-    You can find the development version on [Github](https://github.com/darunabas/phyloregion/) 
-    and a stable version on [CRAN](https://cran.r-project.org/package=phyloregion).
+        rWind is a collaboration with Javier Fernández-López. 
+        You can find the development version on [Github](https://github.com/jabiologo/rWind) 
+    and a stable version on [CRAN](https://cran.r-project.org/package=rWind).
