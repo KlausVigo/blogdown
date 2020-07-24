@@ -40,5 +40,9 @@ filter_default = 0
   name = "R"
   tag = ".R"
 
+[[filter]]
+  name = "biogeography"
+  tag = ".biogeography"
+
 +++
 
